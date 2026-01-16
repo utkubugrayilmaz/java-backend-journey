@@ -1,0 +1,28 @@
+### Java Standart ###
+*.class
+*.log
+*.jar
+*.war
+
+### IntelliJ IDEA (Kesin Lazım) ###
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+### Eclipse (Olur da başka yerden açarsan) ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+bin/
+
+### Mac OS & Windows ###
+.DS_Store
+Thumbs.db
+
+### VS Code ###
+.vscode/
